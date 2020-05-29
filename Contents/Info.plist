@@ -58,9 +58,9 @@
 	<key>WindowState</key>
 	<dict>
 		<key>bundleDividerCollapsed</key>
-		<false/>
+		<true/>
 		<key>bundlePositionOfDivider</key>
-		<real>692</real>
+		<real>0.0</real>
 		<key>dividerCollapsed</key>
 		<false/>
 		<key>eventLogLevel</key>
@@ -70,7 +70,7 @@
 		<key>positionOfDivider</key>
 		<real>585</real>
 		<key>savedFrame</key>
-		<string>56 154 1162 723 0 0 1440 877 </string>
+		<string>269 154 724 723 0 0 1440 877 </string>
 		<key>selectedTab</key>
 		<string>result</string>
 	</dict>
